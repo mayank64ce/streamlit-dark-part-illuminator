@@ -72,6 +72,6 @@ if image_file is not None:
         st.write("""
         # That isn't supposed to go there!
         """)
-        # raise(e)
+        raise(e)
 
 
